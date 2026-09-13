@@ -4,4 +4,10 @@ opencv-python-headless
 pillow
 numpy
 torch==2.1.0
-torchvision==0.16.0
+torchvision==0.16.0streamlit==1.63.0
+ultralytics==8.4.149
+opencv-python-headless
+Pillow
+numpy
+torch==2.1.2
+torchvision==0.16.2
